@@ -1,12 +1,12 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17670",
+"creatorBuild": "17682",
 "files": {
-	"\/about.html": {
+	"\//about/": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about.html",
+		"inputAbbreviatedPath": "\//about/",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -22,11 +22,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/contact.html": {
+	"\//contact/": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/contact.html",
+		"inputAbbreviatedPath": "\//contact/",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -153,6 +153,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/client-2evolve.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10645,
+		"inputAbbreviatedPath": "\/img\/client-2evolve.png",
+		"outputAbbreviatedPath": "\/img\/client-2evolve.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/client-analog.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -182,6 +193,17 @@
 		"initialSize": 43202,
 		"inputAbbreviatedPath": "\/img\/client-asthma.png",
 		"outputAbbreviatedPath": "\/img\/client-asthma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-banjo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10218,
+		"inputAbbreviatedPath": "\/img\/client-banjo.png",
+		"outputAbbreviatedPath": "\/img\/client-banjo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -241,6 +263,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/client-hkaviation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21803,
+		"inputAbbreviatedPath": "\/img\/client-hkaviation.png",
+		"outputAbbreviatedPath": "\/img\/client-hkaviation.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-imgpartners.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7902,
+		"inputAbbreviatedPath": "\/img\/client-imgpartners.png",
+		"outputAbbreviatedPath": "\/img\/client-imgpartners.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-kookai.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16108,
+		"inputAbbreviatedPath": "\/img\/client-kookai.png",
+		"outputAbbreviatedPath": "\/img\/client-kookai.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-myhouse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8492,
+		"inputAbbreviatedPath": "\/img\/client-myhouse.png",
+		"outputAbbreviatedPath": "\/img\/client-myhouse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-nixon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10671,
+		"inputAbbreviatedPath": "\/img\/client-nixon.png",
+		"outputAbbreviatedPath": "\/img\/client-nixon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/client-op.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -270,6 +347,72 @@
 		"initialSize": 5542,
 		"inputAbbreviatedPath": "\/img\/client-ripcurl.png",
 		"outputAbbreviatedPath": "\/img\/client-ripcurl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-sassbide.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11466,
+		"inputAbbreviatedPath": "\/img\/client-sassbide.png",
+		"outputAbbreviatedPath": "\/img\/client-sassbide.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-scouts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14262,
+		"inputAbbreviatedPath": "\/img\/client-scouts.png",
+		"outputAbbreviatedPath": "\/img\/client-scouts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-stvincents.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20105,
+		"inputAbbreviatedPath": "\/img\/client-stvincents.png",
+		"outputAbbreviatedPath": "\/img\/client-stvincents.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-sussex.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19140,
+		"inputAbbreviatedPath": "\/img\/client-sussex.png",
+		"outputAbbreviatedPath": "\/img\/client-sussex.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-swann.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10742,
+		"inputAbbreviatedPath": "\/img\/client-swann.png",
+		"outputAbbreviatedPath": "\/img\/client-swann.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/client-volcom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16293,
+		"inputAbbreviatedPath": "\/img\/client-volcom.png",
+		"outputAbbreviatedPath": "\/img\/client-volcom.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -538,13 +681,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/team\/team_Joel.png": {
+	"\/img\/team\/team_joel.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/team\/team_Joel.png",
-		"outputAbbreviatedPath": "\/img\/team\/team_Joel.png",
+		"inputAbbreviatedPath": "\/img\/team\/team_joel.png",
+		"outputAbbreviatedPath": "\/img\/team\/team_joel.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2766,38 +2909,56 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/service-packs.html": {
+	"\/service-pack-faq.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/service-packs.html",
+		"inputAbbreviatedPath": "\/service-pack-faq.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/services.html": {
+	"\//service-packs/": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/services.html",
+		"inputAbbreviatedPath": "\//service-packs/",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/team.html": {
+	"\//services/": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/team.html",
+		"inputAbbreviatedPath": "\//services/",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/total-support.html": {
+	"\//team/": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/total-support.html",
+		"inputAbbreviatedPath": "\//team/",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/total-support-faq.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/total-support-faq.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\//total-support/": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\//total-support/",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
